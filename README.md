@@ -2,9 +2,7 @@
 
 > Chris Taylor [C0SM0] | 1/17/2021
 
-```
-![Capulator Logo](https://your-copied-image-address)
-```
+![Capulator Logo](https://github.com/CosmodiumCS/capulator/blob/main/Capulator/images/logo.png?raw=true)
 
 ## Overview:
 ```
