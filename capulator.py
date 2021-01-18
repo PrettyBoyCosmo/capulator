@@ -172,6 +172,7 @@ def show_vault():
     unlock_files(key_file, code_file)
     vault = Toplevel()
     vault.title('Hidden Vault')
+    vault.iconbitmap(r'C:\\ProgramData\\Capulator\\images\\logo.ico')
     vault.config(bg='#003333')
 
     Button(vault, text='Open Hidden File Directory', padx=55, pady=20, bg='#000000', fg='#32c878', command=open_directory).grid(row=0, column=0)
