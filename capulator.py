@@ -8,12 +8,6 @@ from tkinter import messagebox
 from tkinter import *
 import os
 
-'''
-TODO
-github
-installer -
-'''
-
 # root initialization
 root = Tk()
 root.title('Capulator')
