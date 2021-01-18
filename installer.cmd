@@ -31,7 +31,7 @@ if '%errorlevel%' NEQ '0' (
 @REM start installation process
 
 @REM confirm installation
-echo Are you sure you want to install "Wized" (Y/N)
+echo Are you sure you want to install "capulator" (Y/N)
 set/p "cho=>"
 if %cho%==Y goto INSTALL
 if %cho%==y goto INSTALL
