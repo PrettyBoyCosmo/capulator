@@ -29,7 +29,7 @@ The Result of a 12-hour Programming Challenge
 ```bash
 python3 capulator.py
 ```
-![Capulator Home](https://your-copied-image-address)
+![Capulator Home](https://github.com/CosmodiumCS/capulator/blob/main/Capulator/images/app.png?raw=true)
 
 > Access Vault:
 - To Access Vault, Enter "0000" Then Press "="
